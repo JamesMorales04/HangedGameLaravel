@@ -423,7 +423,7 @@
         <div class="card-body">
             <h1 class="card-title">Welcome to Hanged Game</h1>
             <p class="card-text">To begin the game you have to be registerd or logged</p>
-            <p><a class="btn btn-primary" href="https://github.com/JamesMorales04/HangedGame" role="button">Source Code for this Application</a></p>
+            <p><a class="btn btn-primary" href="https://github.com/JamesMorales04/HangedGameLaravel.git " role="button">Source Code for this Application</a></p>
             
         </div>
 
